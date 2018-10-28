@@ -21,4 +21,5 @@ func main(){
 	fmt.Println(v.x)
 	fmt.Println(p.x)
 
+	
 }
