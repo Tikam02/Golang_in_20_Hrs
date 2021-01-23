@@ -4,11 +4,11 @@
 
 ### Strategy to learn
 
-1.Learn the basics 
-2.Learn the syntaxes and functions
-3.Learn by example
-4.Implement codes
-5.Implement Golang by programming and implementing the frameworks
+1. Learn the basics 
+2. Learn the syntaxes and functions
+3. Learn by example
+4. Implement codes
+5. Implement Golang by programming and implementing the frameworks
 
 
 
